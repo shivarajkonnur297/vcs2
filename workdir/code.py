@@ -3,9 +3,9 @@
 num1 = 50.6
 num2 = 70.9
 
-# Add two numbers
-sum = num1 + num2
+# multiplication of two numbers
+mul = num1 * num2
 
 # Display the sum
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+print('The multipliation of {0} and {1} is {2}'.format(num1, num2, mul))
 
